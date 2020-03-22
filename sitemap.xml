@@ -3,15 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ghasildimagh.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ghasildimagh.com/tags/</loc>
   </url>
   
 </urlset>
